@@ -41,14 +41,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e **Direito**, focado em
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://stats.justsam.io/api?username=GabrielcMota&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Estatísticas do GitHub" />
-</div>
-
----
-
 ### 📬 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eoomota)
