@@ -44,7 +44,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e **Direito**, focado em
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielcMota&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielcMota&theme=tokyonight&no-frame=true&no-bg=true" alt="Troféus do GitHub" />
 </div>
 
 ---
